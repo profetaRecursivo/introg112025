@@ -1,0 +1,6 @@
+*.ctxt
+*.class
+doc/
+*.txt
+*.TXT
+*.bluej
